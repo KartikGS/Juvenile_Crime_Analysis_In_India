@@ -9,7 +9,7 @@ Main objective of the analysis is prediction and interpretation of juvenile crim
 ## Dataset
 
 ### Juvenile Crime in India 
-Dataset we have considered:[Drive](https://drive.google.com/drive/folders/1zQ7h-ce14K4Lxu4ToFuyUxq3OFvJWPTl?usp=sharing)
+Dataset we have considered:[Github](https://github.com/KartikGS/Juvenile_Crime_Analysis_In_India/tree/main/datasets)
 
 ### Crime in India (Kaggle)
 Following link contains processed data of various crime in separate csv ﬁle. From which we have considered csv which contains information about juvenile crime:[Kaggle](https://www.kaggle.com/datasets/rajanand/crime-in-india)
